@@ -1,4 +1,4 @@
--👋 Hi, I’m @markomilojevic2407993
+- 👋 Hi, I’m @markomilojevic2407993
 - 👀 I’m interested in learning more about your project and how I can contribute my skills in web programming to it.
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on web programming projects.
